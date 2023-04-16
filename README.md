@@ -1,4 +1,4 @@
-# CTEC 227 Spring 2021: Project 1 - Build an Image Gallery with a Registration and Login System
+# CTEC 227 Spring 2023: Project 1 - Build an Image Gallery with a Registration and Login System
 
 ## Project Details
 
