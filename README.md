@@ -17,6 +17,7 @@ Using the PHP code examples provided in Modules 2 and 3, **build a PHP applicati
 - Push your code to GitHub once you have completed the assignment.
 - Students will be demoing their projects to the class following the due date.
 - You must record a Loom video demonstrating your project. Limit your demonstration to know more than 10 minutes.
+- Your code must be commented
 - Your project must generate valid HTML, CSS and contain no WAVE Alerts, Color Contrast or Errors.
 - You must create a Markdown file explaining how the application works. The file must be named project.md. The file must be placed in a folder named **docs**
 - You must include a flowchart for your application showing the overall flow of user interactions. Place a png/pdf/jpg in a folder named **flowchart**
@@ -41,3 +42,4 @@ You can [view a video](https://www.youtube.com/watch?v=t2V_8czWuxM) demonstratin
 | Loom Video Demoing the project                      | 10         | 5             | 0        |
 | project.md Markdown file explaining the application | 10         | 5             | 0        |
 | Flowchart created and included with project         | 10         | 5             | 0        |
+| Code is commented                                   | 15         | 7.5           | 0        |
