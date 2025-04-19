@@ -1,4 +1,4 @@
-# CTEC 227 Spring 2024: Project 1 - Build an Image Gallery with a Registration and Login System
+# CTEC 227 Spring 2025: Project 1 - Build an Image Gallery with a Registration and Login System
 
 ## Project Details
 
@@ -16,7 +16,7 @@ Using the PHP code examples provided in Modules 2 and 3, **build a PHP applicati
 - You can use CSS Grid and Flexbox if you want.
 - Push your code to GitHub once you have completed the assignment.
 - Students will be demoing their projects to the class following the due date.
-- You must record a Loom video demonstrating your project. Limit your demonstration to know more than 10 minutes.
+- You must record a Loom or YouTube video demonstrating your project. Limit your demonstration to know more than 10 minutes.
 - Your code must be commented
 - Your project must generate valid HTML, CSS and contain no WAVE Alerts, Color Contrast or Errors.
 - You must create a Markdown file explaining how the application works. The file must be named project.md. The file must be placed in a folder named **docs**
